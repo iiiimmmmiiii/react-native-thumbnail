@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/jan/data/project/nim/node_modules/react-native-thumbnail/android/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
+        "source": "/Users/jan/.gradle/caches/transforms-2/files-2.1/e819bab6f942048918707c37c5cbbe7c/jetified-react-native-0.66.3/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/jan/data/project/nim/node_modules/react-native-thumbnail/android/build/intermediates/res/merged/release/anim/catalyst_fade_in.xml",
+        "source": "/Users/jan/.gradle/caches/transforms-2/files-2.1/e819bab6f942048918707c37c5cbbe7c/jetified-react-native-0.66.3/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/jan/data/project/nim/node_modules/react-native-thumbnail/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/jan/.gradle/caches/transforms-2/files-2.1/89be89f0ed1c432ab4862a3c9cda8fcc/appcompat-1.0.2/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/jan/data/project/nim/node_modules/react-native-thumbnail/android/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
+        "source": "/Users/jan/.gradle/caches/transforms-2/files-2.1/e819bab6f942048918707c37c5cbbe7c/jetified-react-native-0.66.3/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/jan/data/project/nim/node_modules/react-native-thumbnail/android/build/intermediates/res/merged/release/anim/catalyst_fade_out.xml",
+        "source": "/Users/jan/.gradle/caches/transforms-2/files-2.1/e819bab6f942048918707c37c5cbbe7c/jetified-react-native-0.66.3/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/jan/data/project/nim/node_modules/react-native-thumbnail/android/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/jan/.gradle/caches/transforms-2/files-2.1/89be89f0ed1c432ab4862a3c9cda8fcc/appcompat-1.0.2/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/jan/data/project/nim/node_modules/react-native-thumbnail/android/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/jan/.gradle/caches/transforms-2/files-2.1/89be89f0ed1c432ab4862a3c9cda8fcc/appcompat-1.0.2/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/jan/data/project/nim/node_modules/react-native-thumbnail/android/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/jan/.gradle/caches/transforms-2/files-2.1/89be89f0ed1c432ab4862a3c9cda8fcc/appcompat-1.0.2/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/jan/data/project/nim/node_modules/react-native-thumbnail/android/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/jan/.gradle/caches/transforms-2/files-2.1/89be89f0ed1c432ab4862a3c9cda8fcc/appcompat-1.0.2/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/jan/data/project/nim/node_modules/react-native-thumbnail/android/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/jan/.gradle/caches/transforms-2/files-2.1/89be89f0ed1c432ab4862a3c9cda8fcc/appcompat-1.0.2/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/jan/data/project/nim/node_modules/react-native-thumbnail/android/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/jan/.gradle/caches/transforms-2/files-2.1/89be89f0ed1c432ab4862a3c9cda8fcc/appcompat-1.0.2/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/jan/data/project/nim/node_modules/react-native-thumbnail/android/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/jan/.gradle/caches/transforms-2/files-2.1/e819bab6f942048918707c37c5cbbe7c/jetified-react-native-0.66.3/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/jan/data/project/nim/node_modules/react-native-thumbnail/android/build/intermediates/res/merged/release/anim/abc_tooltip_enter.xml",
+        "source": "/Users/jan/.gradle/caches/transforms-2/files-2.1/89be89f0ed1c432ab4862a3c9cda8fcc/appcompat-1.0.2/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/jan/data/project/nim/node_modules/react-native-thumbnail/android/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/jan/.gradle/caches/transforms-2/files-2.1/89be89f0ed1c432ab4862a3c9cda8fcc/appcompat-1.0.2/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/jan/data/project/nim/node_modules/react-native-thumbnail/android/build/intermediates/res/merged/release/anim/abc_tooltip_exit.xml",
+        "source": "/Users/jan/.gradle/caches/transforms-2/files-2.1/89be89f0ed1c432ab4862a3c9cda8fcc/appcompat-1.0.2/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/jan/data/project/nim/node_modules/react-native-thumbnail/android/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/jan/.gradle/caches/transforms-2/files-2.1/89be89f0ed1c432ab4862a3c9cda8fcc/appcompat-1.0.2/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/jan/data/project/nim/node_modules/react-native-thumbnail/android/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/jan/.gradle/caches/transforms-2/files-2.1/89be89f0ed1c432ab4862a3c9cda8fcc/appcompat-1.0.2/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/jan/data/project/nim/node_modules/react-native-thumbnail/android/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/jan/.gradle/caches/transforms-2/files-2.1/e819bab6f942048918707c37c5cbbe7c/jetified-react-native-0.66.3/res/anim/catalyst_push_up_in.xml"
+    }
+]
